@@ -1,0 +1,27 @@
+{
+  "name": "gitbook-plugin-hide-navigation-buttons",
+  "description": "Hide navigation buttons for Gitbook Plugin",
+  "author": {
+    "name": "Jeongho Nam",
+    "email": "samchon@samchon.org",
+    "url": "http://samchon.org"
+  },
+  "version": "0.0.1",
+  "main": "index.js",
+  "engines": {
+    "gitbook": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samchon/gitbook-plugin-hide-navigation-buttons.git"
+  },
+  "keywords": [
+    "gitbook-plugin",
+    "hide-navigation-buttons"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samchon/gitbook-plugin-hide-navigation-buttons/issues"
+  },
+  "homepage": "https://github.com/samchon/gitbook-plugin-hide-navigation-buttons#readme"
+}
